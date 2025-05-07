@@ -1,5 +1,5 @@
 
-import { Home, User, Calendar, Check } from "lucide-react";
+import { Home, User, Calendar, Check, Search } from "lucide-react";
 
 const HowItWorks = () => {
   const steps = [
